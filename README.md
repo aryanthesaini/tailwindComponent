@@ -1,6 +1,6 @@
 # Tailwind Icon Template
 
-# Click  [Here]([https://duckduckgo.com](https://tailwind-component-five.vercel.app/))
+# Click  [Here](https://tailwind-component-five.vercel.app/) to preview
 
 ## Available Scripts
 
